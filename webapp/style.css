@@ -1,0 +1,221 @@
+
+
+/* Stylesheet for Peace River Community Soup Kitchen */ 
+
+body{
+ text-align:center;
+ margin: 5px 5px 5px 5px;
+ padding: 0;     
+ color: #2C5D3F;
+ font-size: 9pt;
+ font-family: Verdana, Helvetica, Geneva, Arial, 
+              SunSans-Regular, sans-serif;
+    color: #555555;
+    background-color: white;
+ scrollbar-base-color: #E0EEE0;
+ scrollbar-arrow-color: #608341;
+ scrollbar-shadow-color: #608341;
+ scrollbar-lightshadow-color: #C0D9AF; 
+ scrollbar-darkshadow-color: #608341;
+ scrollbar-highlight-color: white;
+ scrollbar-3dlight-color: #608341;
+ }
+
+
+	#frame {
+		width:760px;
+		margin-right:auto;
+		margin-left:0px;
+		margin-top:0px;
+		padding:0px;
+		text-align:left;
+		}	
+     
+#lh-col{
+ width: 200px;
+ float: left;
+ border: solid #2C5D3F;
+ border-width: 0 1px 0 0;
+ color: #333333;
+ margin: 0;
+ padding: 10px;
+ }
+
+#lh-col2{
+ width: 200px;
+ float: left;
+ border: solid #2C5D3F;
+ border-width: 0 1px 0 0;
+ color: #333333;
+ margin: 0;
+ padding: 10px;
+ font-size: 8.5pt;
+ }
+
+#mid-col{
+ width: 360px;
+ float: left;
+ border: solid #2C5D3F;
+ border-width: 0 1px 0 0;
+ color: #333333;
+ margin: 0;
+ padding: 10px;
+ }
+
+#mid-col2{
+ width: 540px;
+ float: left;
+ border: solid #2C5D3F;
+ border-width: 0 0 0 0;
+ color: #333333;
+ margin: 0;
+ padding: 10px 0px 10px 10px;
+ font-size: 8pt;
+ }
+	
+#rh-col{
+ width: 200px;
+ float: left;
+ border: solid #2C5D3F;
+ border-width: 0 0 0 0;
+ color: #333333;
+ margin: 0;
+ padding: 10px 0px 10px 10px;
+ }
+
+ 
+#ftr{
+ float: left;
+ width: 759px;
+ margin: 0;
+ padding: 0px;
+ color: white;
+ }
+
+ 
+#ftr1{
+ float: left;
+ width: 759px;
+ margin: 0;
+ padding: 0px;
+ font-size: 9pt;
+ font-family: Verdana, Helvetica, Geneva, Arial, 
+              SunSans-Regular, sans-serif;
+    color: #555555;
+    background-color: white;
+ }
+
+p.dotted { border-bottom-style: dotted ; 
+           border-bottom-color: #608341; 
+           border-bottom-width: 2px;
+           padding-top: 0px;  
+           padding-bottom: 10px;  }
+
+p.short {  margin-top: 0px;
+	   margin-bottom: 8px;
+           font-size: 9pt; color: #8FBC8F; 
+	   font-weight: bold; }
+
+p.tall {  margin-top: 15px;
+	   margin-bottom: 12px;
+           font-size: 10pt; }
+
+
+hr {
+  border: 0;
+  width: 100%; 
+  height: 1px;
+  text-align: center;
+  color: #608341;
+  margin-top: 8px; 
+  margin-bottom: 0px; }
+
+
+h1 { margin-bottom: 8px; }
+h2 { margin-bottom: 8px; }
+
+h3 { color: #608341;
+     background: #C0D9AF;
+     width: 100%;
+     margin: 0px 0px 0px 0px;
+     padding: 8px;
+     text-align: center;  }
+
+h4 { color: #608341;
+     margin-bottom: 8px; }
+
+h5 { color: #608341;
+     background: #E0EEE0;
+     width: 100%;
+     margin: 8px 0px 8px 0;
+     padding: 3px;
+     border-left: 0;
+     border-right: 0;  }
+
+h5.sponsor { color: #435D36;
+     	     background: #FFF8DC;
+	     width: 100%;
+	     margin: 8px 0px 8px 0;
+	     padding: 3px;
+	     border-left: 0;
+	     border-right: 0;  }
+
+ul { list-style-type: square;
+      font-size: 9pt;  } 
+
+
+a { font-size: 9pt;}
+
+  a:link    { text-decoration: none; color: #608341; font-weight: bold; font-size: 9pt; }
+  a:visited { text-decoration: none; color: #608341; font-weight: bold; font-size: 9pt; }
+  a:hover   { text-decoration: none; color: #8FBC8F; font-weight: bold; font-size: 9pt; }
+  a:active  { text-decoration: none; color: #EEC900; font-weight: bold; font-size: 9pt; }
+
+
+  a.sponsor:link    { text-decoration: underline; color: #435D36; font-weight: normal; }
+  a.sponsor:visited { text-decoration: underline; color: #435D36; font-weight: normal;}
+  a.sponsor:hover   { text-decoration: underline; color: #000000; font-weight: normal;}
+  a.sponsor:active  { text-decoration: underline; color: #000000; font-weight: normal;}
+
+  a.highlight:link    { text-decoration: none; color: #608341; background: #E0EEE0;
+			width: 100%; margin: 3; padding: 3px; }
+  a.highlight:visited { text-decoration: none; color: #608341; background: #E0EEE0;
+			width: 100%; margin: 3; padding: 3px; }
+  a.highlight:hover   { text-decoration: none; color: #8FBC8F; background: #E0EEE0;
+			width: 100%; margin: 3; padding: 3px; }
+  a.highlight:active  { text-decoration: none; color: #EEC900; background: #E0EEE0;
+			width: 100%; margin: 3; padding: 3px; }
+
+
+  a.toolbar:link    { text-decoration: none; color: #608341; font-size: 7pt; font-weight: bold;
+			margin-top: 2px; margin-bottom: 5px; margin-right: 23px; }
+  a.toolbar:visited { text-decoration: none; color: #608341; font-size: 7pt; font-weight: bold;
+			margin-top: 2px; margin-bottom: 5px; margin-right: 23px; }
+  a.toolbar:hover   { text-decoration: none; color: #8FBC8F; font-size: 7pt; font-weight: bold;
+			margin-top: 2px; margin-bottom: 5px; margin-right: 23px; }
+  a.toolbar:active  { text-decoration: none; color: #EEC900; font-size: 7pt; font-weight: bold;
+			margin-top: 2px; margin-bottom: 5px; margin-right: 23px; }
+
+
+
+table.sample {
+	border-width: 1px;
+	border-spacing: ;
+	border-style: dashed;
+	border-color: black;
+	border-collapse: separate;
+	background-color: white;
+}
+
+table.sample td {
+	border-width: 1px;
+	padding: 4px;
+	border-style: none;
+	border-color: gray;
+	background-color: white;
+	-moz-border-radius: ;
+}
+
+
+
+
