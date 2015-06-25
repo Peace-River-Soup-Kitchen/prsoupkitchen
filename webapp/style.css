@@ -192,13 +192,13 @@ a { font-size: 9pt;}
 
 
   a.toolbar:link    { text-decoration: none; color: #608341; font-size: 7pt; font-weight: bold;
-			margin-top: 2px; margin-bottom: 5px; margin-right: 17px; }
+			margin-top: 2px; margin-bottom: 5px; margin-right: 32px; }
   a.toolbar:visited { text-decoration: none; color: #608341; font-size: 7pt; font-weight: bold;
-			margin-top: 2px; margin-bottom: 5px; margin-right: 17px; }
+			margin-top: 2px; margin-bottom: 5px; margin-right: 32px; }
   a.toolbar:hover   { text-decoration: none; color: #8FBC8F; font-size: 7pt; font-weight: bold;
-			margin-top: 2px; margin-bottom: 5px; margin-right: 17px; }
+			margin-top: 2px; margin-bottom: 5px; margin-right: 32px; }
   a.toolbar:active  { text-decoration: none; color: #EEC900; font-size: 7pt; font-weight: bold;
-			margin-top: 2px; margin-bottom: 5px; margin-right: 17px; }
+			margin-top: 2px; margin-bottom: 5px; margin-right: 32px; }
 
 
 
