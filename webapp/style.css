@@ -220,6 +220,20 @@ table.sample td {
 	-moz-border-radius: ;
 }
 
+figure.gallery {
+	max-width: 540px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+figure.gallery img {
+	width: 100%;
+}
+
+figure.gallery figcaption {
+	margin-top: 10px;
+	font-size: 11pt;
+}
 
 
 
